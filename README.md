@@ -59,7 +59,7 @@ The following CSV files were used:
 
  ## Acknowledgments
 Data sourced from banking-related datasets.
-Libraries used: `pandas`, `numpy` , `matplotlib` , `seaborn` , `scikit-learn` , `xgboost`.
+Libraries used: `pandas`, `numpy` , `matplotlib` , `seaborn` , `scikit-learn`.
 
 ---
 
